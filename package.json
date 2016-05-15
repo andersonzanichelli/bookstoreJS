@@ -1,0 +1,11 @@
+{
+    "name": "bookstoreJS",
+    "version": "0.0.1",
+    "private": true,
+    "author": "Anderson Zanichellli",
+    "dependencies": {
+        "restify": "~3.0.1",
+        "mongodb": "~2.0",
+        "request": "*"
+    }
+}
